@@ -1,0 +1,61 @@
+customer_id,customer_name,city,segment
+C001,Customer 001,Mumbai,Consumer
+C002,Customer 002,Hyderabad,Small Business
+C003,Customer 003,Bengaluru,Consumer
+C004,Customer 004,Chennai,Consumer
+C005,Customer 005,Mumbai,Consumer
+C006,Customer 006,Mumbai,Small Business
+C007,Customer 007,Delhi,Consumer
+C008,Customer 008,Delhi,Corporate
+C009,Customer 009,Hyderabad,Consumer
+C010,Customer 010,Hyderabad,Consumer
+C011,Customer 011,Chennai,Small Business
+C012,Customer 012,Delhi,Consumer
+C013,Customer 013,Delhi,Consumer
+C014,Customer 014,Mumbai,Small Business
+C015,Customer 015,Mumbai,Small Business
+C016,Customer 016,Pune,Consumer
+C017,Customer 017,Pune,Small Business
+C018,Customer 018,Bengaluru,Consumer
+C019,Customer 019,Chennai,Small Business
+C020,Customer 020,Pune,Corporate
+C021,Customer 021,Bengaluru,Consumer
+C022,Customer 022,Chennai,Corporate
+C023,Customer 023,Hyderabad,Consumer
+C024,Customer 024,Pune,Consumer
+C025,Customer 025,Bengaluru,Corporate
+C026,Customer 026,Delhi,Corporate
+C027,Customer 027,Hyderabad,Small Business
+C028,Customer 028,Pune,Small Business
+C029,Customer 029,Hyderabad,Corporate
+C030,Customer 030,Hyderabad,Small Business
+C031,Customer 031,Bengaluru,Small Business
+C032,Customer 032,Delhi,Corporate
+C033,Customer 033,Delhi,Consumer
+C034,Customer 034,Mumbai,Consumer
+C035,Customer 035,Hyderabad,Small Business
+C036,Customer 036,Chennai,Corporate
+C037,Customer 037,Hyderabad,Consumer
+C038,Customer 038,Hyderabad,Corporate
+C039,Customer 039,Bengaluru,Corporate
+C040,Customer 040,Mumbai,Corporate
+C041,Customer 041,Chennai,Corporate
+C042,Customer 042,Bengaluru,Consumer
+C043,Customer 043,Mumbai,Corporate
+C044,Customer 044,Mumbai,Small Business
+C045,Customer 045,Mumbai,Consumer
+C046,Customer 046,Delhi,Small Business
+C047,Customer 047,Chennai,Small Business
+C048,Customer 048,Mumbai,Consumer
+C049,Customer 049,Chennai,Corporate
+C050,Customer 050,Pune,Corporate
+C051,Customer 051,Mumbai,Small Business
+C052,Customer 052,Delhi,Consumer
+C053,Customer 053,Mumbai,Corporate
+C054,Customer 054,Hyderabad,Consumer
+C055,Customer 055,Hyderabad,Corporate
+C056,Customer 056,Pune,Corporate
+C057,Customer 057,Hyderabad,Consumer
+C058,Customer 058,Delhi,Small Business
+C059,Customer 059,Bengaluru,Consumer
+C060,Customer 060,Mumbai,Corporate
